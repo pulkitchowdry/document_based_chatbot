@@ -39,7 +39,4 @@ This chatbot allows users to ask questions based on pre-uploaded documents or up
 
 - Support for additional document types.
 - Multi-language support for broader use cases.
-
---- 
-
-This README covers the core functionality of your app in a simplified manner.
+- Display of uploaded file titles.
