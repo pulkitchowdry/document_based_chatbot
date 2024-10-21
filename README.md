@@ -1,6 +1,6 @@
 # Document-Based Q&A Chatbot
 
-This chatbot allows users to ask questions based on pre-uploaded documents or upload their own documents. It leverages Langchain, Astra DB, and Hugging Face models to provide intelligent responses by analyzing and retrieving information from the documents stored in a vector database.
+This chatbot allows users to ask questions based on pre-uploaded documents or upload their own documents. It leverages LangChain, Astra DB, and Hugging Face models to provide intelligent responses by analyzing and retrieving information from the documents stored in a vector database.
 
 ## Features
 
@@ -18,7 +18,7 @@ This chatbot allows users to ask questions based on pre-uploaded documents or up
 ## Tech Stack
 
 - **Streamlit**: For building the user interface.
-- **Langchain**: To handle document processing, embedding, and retrieval.
+- **LangChain**: To handle document processing, embedding, and retrieval.
 - **Astra DB**: For storing document embeddings as vectors.
 - **Hugging Face**: For language model-based Q&A.
 
